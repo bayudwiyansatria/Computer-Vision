@@ -76,4 +76,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[CLOUD MANADO](https://cloudmanado.store) / [PENS](http://bayudwiyansatria.pasca.student.pens.ac.id/) / [BAYU DWIYAN SATRIA](https://bayudwiyansatria.site)
+PENS](http://bayudwiyansatria.pasca.student.pens.ac.id/) / [BAYU DWIYAN SATRIA](https://bayudwiyansatria.com)
